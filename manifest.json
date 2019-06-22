@@ -1,0 +1,21 @@
+{
+    "name": "Trash GiveAway",
+    "short_name": "TrashGiveAway",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "/img/icons/help-icon-48x48.png",
+          "type": "image/png",
+          "sizes": "48x48"
+        },
+        {
+          "src": "/img/icons/help-icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        }
+    ]
+}
